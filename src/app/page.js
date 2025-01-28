@@ -20,7 +20,7 @@ export default function Home() {
             </p>
           </div>
 
-          <a href="https://play.google.com/" className="flex justify-center ">
+          <a href="https://play.google.com/store/apps/details?id=com.ystudio.real_muslim&pcampaignid=web_share" className="flex justify-center cursor-pointer">
             <button className="bg-white border-black border-2 mt-6 border-b-4 py-2 px-4 rounded-xl font-black  text-md flex items-center gap-2">
               DOWNLOAD
             </button>
